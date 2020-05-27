@@ -1,5 +1,7 @@
 # Walmart-Store-Sales-Forecasting
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Walmart_store_exterior_5266815680.jpg/1280px-Walmart_store_exterior_5266815680.jpg?1590550920963)
+
 In this recruiting competition, job-seekers are provided with historical sales data for 45 Walmart stores located in different regions. Each store contains many departments, and participants must project the sales for each department in each store. To add to the challenge, selected holiday markdown events are included in the dataset. These markdowns are known to affect sales, but it is challenging to predict which departments are affected and the extent of the impact.
 
 Want to work in a great environment with some of the world's largest data sets? This is a chance to display your modeling mettle to the Walmart hiring teams.
