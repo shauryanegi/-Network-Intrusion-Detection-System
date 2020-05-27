@@ -10,13 +10,13 @@ This competition counts towards rankings & achievements.  If you wish to be cons
 
 You must compete as an individual in recruiting competitions. You may only use the provided data to make your predictions.
 
-#Business Context:
+## Business Context:
 The objective is predicting store sales using historical markdown data.
 One challenge of modelling retail data is the need to make decisions based on limited
 history. If Christmas comes but once a year, so does the chance to see how strategic
 decisions impacted the bottom line.
 
-#Data Availability & Business Problem:
+## Data Availability & Business Problem:
 
 You are provided with historical sales data for 45 Walmart stores located in different
 regions. Each store contains a number of departments, and you are tasked with predicting
